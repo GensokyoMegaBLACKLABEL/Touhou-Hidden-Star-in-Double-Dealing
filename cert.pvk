@@ -1,0 +1,2 @@
+openssl rsa -inform pvk -in cert.pvk -outform pem -out cert.pem
+python release_sign.py -k cert.pem thcrap.zip
