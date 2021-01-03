@@ -1,1 +1,2 @@
-# Touhou-Hidden-Star-in-Double-Dealing
+# Touhou-Hidden-Star-in-Double-Dealing Mod
+Created by AutoThaiLand
